@@ -24,7 +24,7 @@ palette = "base16-dark"
 [params.about]
 title = "o/ folks, that's me!"
 description = "My minimal BIO inspired by terminal candies."
-# logo = "images/rice.svg"
+# logo = "images/logo_studio_musumeci_white.png"
 
 # Sidebar: social links
 # Available icon sets:

@@ -1,13 +1,14 @@
-# Carmelo Mirko Musumeci, an engineer, yes.. that kind of.
+![](images/logo_studio_musumeci-white.png)
+# Carmelo Mirko Musumeci. Think, build, dream.
 ---
 
-My professional career is based in 10+ years of solid experience in software development, gained both in Italy and other European Union countries.
+I'm an Italian engineer, born in Catania, Sicily. My professional career is based in 10+ years of solid experience in software development, gained both in Italy and also somewhere else, around the world.
 
-My key strengths are the design, the development and the deployment of software systems, mainly back-end, through many programming languages and web frameworks using the agile principles.
+My key strengths is the automation of complex software systems, along with the design, development and deployment of back-end software layers. I know various programming languages and web frameworks and I love working applying the agile principles.
 
-Class 1984, Born in Catania (Sicily) and curious by nature, since I was a kid I was affected by that kind of well known “syndrome” of disassembling and discovering the content hidden by every little box containing electronic components.
+I'm curious by nature, since I was a kid I was affected by that kind of well known “syndrome” of disassembling and discovering the content hidden by every little box containing electronic components.
 
-# What I did, so far.
+# What I accomplished, so far.
 ---
 
 * 2022 – present | Softare Automation Engineer @ Riot Games via X-Team (full remote). Jenkins build farm responsible. Development and maintaining of an event-driven orchestrator. Driven the Perforce -> Git transition for some partner teams.
