@@ -10,21 +10,17 @@ Class 1984, Born in Catania (Sicily) and curious by nature, since I was a kid I 
 # What I did, so far.
 ---
 
-* 2020 – present
-80% Remote and 20% On-Site role. Software Automation Engineer designing, building and maintaining microservices consumed by GitLab pipelines for a nIMS (next IP Multimedia Subsystem) Telco Cloud project @ Juniper Networks (Remote)
+* 2022 – present | Softare Automation Engineer @ Riot Games via X-Team (full remote). Jenkins build farm responsible. Development and maintaining of an event-driven orchestrator. Driven the Perforce -> Git transition for some partner teams.
 
-* 2018 – 2020
-Software automation baker @ Klopotek Italia, Gioia del Colle (Bari). Going DevOps!
+* 2020 – 2022 | Software Automation Engineer designing, building and maintaining microservices consumed by GitLab pipelines for a nIMS (next IP Multimedia Subsystem) Telco Cloud project @ Juniper Networks via X-Team (full remote).
 
-* 2016 – 2018
-Enthusiastic Python & Django API developer. Building software products in a microservices architecture context @ KPN, Amsterdam, The Netherlands.
+* 2018 – 2020 | Software automation baker @ Klopotek Italia, Gioia del Colle (Bari). Going DevOps!
 
-* 2012 – 2016
-Software Engineer @ European Patent Office, Rijswijk, The Netherlands.
+* 2016 – 2018 | Enthusiastic Python & Django API developer. Building software products in a microservices architecture context @ KPN, Amsterdam, The Netherlands.
 
-* 2011 – 2012
-Design, development, performance improvement and maintenance of the ETL processes feeding a strategic reporting platform used by call center team leaders @ Vodafone Italia, Milan, Italy.
+* 2012 – 2016 | Software Engineer @ European Patent Office, Rijswijk, The Netherlands.
 
-* 2011
-Master of Science degree in Computer Engineering @ Università di Pisa. Vote: 110/110.
+* 2011 – 2012 | Design, development, performance improvement and maintenance of the ETL processes feeding a strategic reporting platform used by call center team leaders @ Vodafone Italia, Milan, Italy.
+
+* 2011 | I got a Master of Science degree in Computer Engineering @ Università di Pisa. Vote: 110/110.
 
